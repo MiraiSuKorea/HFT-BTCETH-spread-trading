@@ -7,3 +7,4 @@ Win rate          : 75.14%
 Avg trade PnL     : 0.000916
 Std trade PnL     : 0.002358
 Spread position dollar amount : $10,000
+period : 20251101 - 20251130
